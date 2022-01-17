@@ -18,7 +18,7 @@
 - 공동: https://github.com/yehjin-00/ybigta-coding-test-study
 - 박선종: 
 - 박재연: 
-- 배지호: 
+- 배지호: https://github.com/BaeJ1H021/PS
 - 신예진: https://github.com/yehjin-00/algorithm-study
 - 유임성: 
 - 이재찬: 
