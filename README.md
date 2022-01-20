@@ -21,6 +21,6 @@
 - 배지호: https://github.com/BaeJ1H021/PS
 - 신예진: https://github.com/yehjin-00/algorithm-study
 - 유임성: 
-- 이재찬: 
+- 이재찬: https://github.com/jaeckiee/coding-test-study
 - 이화영: https://github.com/2hwayoung/AlgorithmStudy
 
