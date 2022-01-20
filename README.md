@@ -17,7 +17,7 @@
 ## 깃헙 레포지토리 링크
 - 공동: https://github.com/yehjin-00/ybigta-coding-test-study
 - 박선종: 
-- 박재연: 
+- 박재연: https://github.com/moggaa/coding-test
 - 배지호: https://github.com/BaeJ1H021/PS
 - 신예진: https://github.com/yehjin-00/algorithm-study
 - 유임성: 
