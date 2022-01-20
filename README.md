@@ -22,5 +22,5 @@
 - 신예진: https://github.com/yehjin-00/algorithm-study
 - 유임성: 
 - 이재찬: 
-- 이화영: 
+- 이화영: https://github.com/2hwayoung/AlgorithmStudy
 
