@@ -20,7 +20,7 @@
 - 박재연: https://github.com/moggaa/coding-test
 - 배지호: https://github.com/BaeJ1H021/PS
 - 신예진: https://github.com/yehjin-00/algorithm-study
-- 유임성: 
+- 유임성: https://github.com/imsongkk/PS
 - 이재찬: https://github.com/jaeckiee/coding-test-study
 - 이화영: https://github.com/2hwayoung/AlgorithmStudy
 
