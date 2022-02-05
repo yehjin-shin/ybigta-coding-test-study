@@ -24,3 +24,9 @@
 - 이재찬: https://github.com/jaeckiee/coding-test-study
 - 이화영: https://github.com/2hwayoung/AlgorithmStudy
 
+## 주차별 문제풀이 현황
+|이름|박선종|박재연|배지호|신예진|유임성|이재찬|이화영|
+|---|---|---|---|---|---|---|---|
+|week1|3|3|3|3|3|3|3|
+|week2|3|3|3|3|3|3|0|
+|week3|-|-|-|-|-|-|-|
